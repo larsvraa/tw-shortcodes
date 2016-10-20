@@ -2,7 +2,7 @@
 /*
  * Plugin Name: tw Shortcodes
  * Plugin URI: http://tripwiremagazine.com/wp/plugins/tw-shortcodes
- * Description: tw Shortcodes is a free WordPress plugin that allows you to easily add “flat design” buttons, boxes, icons, pricing tables, tabs, toggles and column layouts in your posts and pages without modifying CSS, HTML or PHP.
+ * Description: TW Shortcodes is a simple and free WordPress plugin that allows you to easily add “flat design” buttons, boxes, icons, pricing tables, tabs, toggles and column layouts in your posts and pages without modifying CSS, HTML or PHP.
  * Version: 1.1
  * Author: Invendio Aps
  * Author URI: http://www.tripwiremagazine.com
